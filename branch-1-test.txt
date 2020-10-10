@@ -1,1 +1,1 @@
-plik testowy branch-1
+plik testowy branch-1 modyfikacja powtórne w branch-conflict-2
